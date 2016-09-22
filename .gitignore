@@ -1,0 +1,17 @@
+/.bundle/
+/.yardoc
+/Gemfile.lock
+/_yardoc/
+/coverage/
+/doc/
+/pkg/
+/spec/reports/
+/tmp/
+.idea/misc.xml
+.rakeTasks
+BoletoIntermedium.iml
+encodings.xml
+modules.xml
+BoletoIntermedium.xml
+vcs.xml
+workspace.xml
